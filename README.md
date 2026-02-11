@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=200&section=header&text=Hey%20I%20am%20Teja%20👋&fontSize=50&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=3B82F6&height=200&section=header&text=Hey%20I%20am%20Teja%20👋&fontSize=50&animation=fadeIn" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Building+stuff+people+actually+want;Marketing+that+does+not+feel+like+marketing;Exploring+AI+and+automation;Creating+content+that+drives+real+engagement" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Building+stuff+people+actually+want;Marketing+that+does+not+feel+like+marketing;Exploring+AI+and+automation;Creating+content+that+drives+real+engagement" alt="Typing SVG" />
 </div>
 
 ---
@@ -37,22 +37,25 @@ I am **Teja** ([@tejalogs](https://github.com/tejalogs)). I work at the intersec
 
 ---
 
-## 🧠 Skill Stack
+## 🚀 Skill Stack
 
 <div align="center">
 
-### Marketing & Content
-![Content Strategy](https://img.shields.io/badge/Content_Strategy-0D1117?style=for-the-badge&logo=buffer&logoColor=3B82F6)
-![Digital Marketing](https://img.shields.io/badge/Digital_Marketing-0D1117?style=for-the-badge&logo=google-analytics&logoColor=3B82F6)
-![SEO](https://img.shields.io/badge/SEO-0D1117?style=for-the-badge&logo=google&logoColor=3B82F6)
-![AI Tools](https://img.shields.io/badge/AI_Tools-0D1117?style=for-the-badge&logo=openai&logoColor=3B82F6)
+### Design & Experience
+![Figma](https://img.shields.io/badge/Figma-E95420?style=for-the-badge&logo=figma&logoColor=white)
+![UI/UX](https://img.shields.io/badge/UI_UX-3B82F6?style=for-the-badge&logo=adobe-creative-cloud&logoColor=white)
+![Content](https://img.shields.io/badge/Content_Strategy-0D1117?style=for-the-badge&logo=buffer&logoColor=3B82F6)
 
-### Development & Design
-![HTML](https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5&logoColor=3B82F6)
-![CSS](https://img.shields.io/badge/CSS-0D1117?style=for-the-badge&logo=css3&logoColor=3B82F6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=3B82F6)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3B82F6)
-![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=3B82F6)
+### Development & AI
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AI/OpenAI](https://img.shields.io/badge/AI_Workflows-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+### Growth & Marketing
+![SEO](https://img.shields.io/badge/SEO_Growth-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Meta](https://img.shields.io/badge/Meta_Ads-0668E1?style=for-the-badge&logo=meta&logoColor=white)
+![Analytics](https://img.shields.io/badge/Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
 
 </div>
 
