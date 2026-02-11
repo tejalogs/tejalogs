@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey! I am Teja 👋
+# Hey! I am Teja
 ### Marketing • Content • AI • Design
 </div>
 
@@ -12,12 +12,12 @@
 ## 👨‍💻 About Me
 
 I'm **Teja** ([@tejalogs](https://github.com/tejalogs)). I build stuff that connects with people—mixing marketing thinking with content that actually resonates. Deep into **AI, UI/UX design, and web development**.
-- 📊 **Marketing Strategy**: Crafting campaigns that actually make people care
-- ✍️ **Content Strategy**: Writing and building content systems that work
-- 🤖 **AI Exploration**: Experimenting with AI for smarter automation and workflows
-- 🎨 **UI/UX Interest**: Obsessed with clean design and smooth user experiences
-- 💻 **Web Development**: Building with HTML, CSS, JavaScript, and TypeScript
-- 📱 **Social Media**: Creating content strategies that drive real engagement
+Marketing Strategy**: Crafting campaigns that actually make people care
+Content Strategy**: Writing and building content systems that work
+AI Exploration**: Experimenting with AI for smarter automation and workflows
+UI/UX Interest**: Obsessed with clean design and smooth user experiences
+Web Development**: Building with HTML, CSS, JavaScript, and TypeScript
+Social Media**: Creating content strategies that drive real engagement
 ---
 
 ## 🚀 Featured Projects
@@ -34,7 +34,7 @@ Start with what was said or done. Exact words help - a communication feedback to
 A Timeless System for Masculine Order - helping men structure their lives effectively.
 **Tech Stack**: JavaScript
 
-### 📱 [The-Social-Algorithm](https://github.com/Isurya1/The-Social-Algorithm-)
+### 📱 [The-Social-Algorithm](https://thesocialalgorithm.work/)
 Marketing and content management platform for social media optimization.
 **Tech Stack**: TypeScript
 
@@ -89,23 +89,23 @@ An interactive arcade-style game built with JavaScript.
 
 ## 🌱 Currently Working On
 
-- 📊 Building comprehensive marketing strategies for digital products
-- ✍️ Creating engaging content systems and frameworks
-- 🤖 Exploring AI tools for content creation and marketing automation
-- 🎨 Learning advanced UI/UX design principles
-- 💻 Developing web applications with modern frameworks
-- 📱 Growing social media engagement strategies
+ilding comprehensive marketing strategies for digital products
+eating engaging content systems and frameworks
+ploring AI tools for content creation and marketing automation
+arning advanced UI/UX design principles
+veloping web applications with modern frameworks
+owing social media engagement strategies
 
 ---
 
 ## 💡 Fun Facts
 
-- 🎯 I love crafting compelling narratives that resonate with audiences
-- 🤖 Passionate about how AI can transform marketing and content creation
-- 🎮 Game development is my creative outlet
-- 🛒 Always hunting for the best deals and discount codes
-- 🖥️ Budget PC building enthusiast
-- 🌐 Advocate for accessible and user-friendly digital experiences
+love crafting compelling narratives that resonate with audiences
+ssionate about how AI can transform marketing and content creation
+me development is my creative outlet
+ways hunting for the best deals and discount codes
+dget PC building enthusiast
+vocate for accessible and user-friendly digital experiences
 
 ---
 
