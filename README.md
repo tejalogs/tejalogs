@@ -68,7 +68,7 @@ I build systems that:
 
 <div align="center">
 
-☕ Working → 💻 Building → 🛌 Resting
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=☕+Working;💻+Building;🛌+Resting" alt="Daily Life Typing SVG" />
 
 </div>
 
