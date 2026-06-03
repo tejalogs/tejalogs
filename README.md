@@ -26,10 +26,8 @@ Three things I do:
 | Project | What it does |
 | :--- | :--- |
 | **[The Social Algorithm](https://www.thesocialalgorithm.work)** | Viral-growth marketing agency — strategy + engineering for AI-era brands |
-| **[Second Look](https://trysecondlook.com)** | AI-powered behavioural prediction engine that maps relationship patterns |
+| **[Second Look](https://www.trysecondlook.com)** · [📱 Play Store](https://play.google.com/store/apps/details?id=com.trysecondlook.app) | AI-powered behavioural prediction engine that maps relationship patterns |
 | **[aajkameal](https://aajkameal.com)** | Food preference AI that learns your taste over time |
-| **Know Us Better (KUB)** | Programmatic SEO surface for interview discovery |
-| **Superman** | AI-powered social distribution engine across X, LinkedIn and Instagram |
 | **[Retro Games](https://www.retrogames.win/)** | Classic web arcade, zero friction |
 
 ---
