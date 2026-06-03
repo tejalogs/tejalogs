@@ -1,113 +1,62 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=3B82F6&height=200&section=header&text=Hey%20I%20am%20Teja%20👋&fontSize=50&animation=fadeIn" />
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Building+stuff+people+actually+want;Marketing+that+does+not+feel+like+marketing;Exploring+AI+and+automation;Creating+content+that+drives+real+engagement" alt="Typing SVG" />
-</div>
-
----
-
-## About me
-
-
-I am **Teja** ([@tejalogs](https://github.com/tejalogs)).  
-I work at the intersection of marketing, content, AI, and product experience.
-
-I build systems that:
-- Attract the right users
-- Guide them with clear UX and copy
-- Convert attention into action
- - Use AI to reduce manual work
-
-### Core strengths
-
-* Marketing strategy for early stage products  
-* Content systems that compound over time  
-* AI workflows for automation and insight  
-* UI UX thinking for better conversion  
-* Frontend experimentation (HTML, CSS, JS, TS)  
-* Social media growth with intent, not noise  
-
----
-
-## Featured projects
-
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **[Aajkameal](https://aajkameal.com)** | Practical nutrition for Indian meals. | `TypeScript` |
-| **[Second Look](https://trysecondlook.com)** | Communication feedback tool for real conversations. | `TypeScript` |
-| **[The Social Algorithm](https://thesocialalgorithm.work)** | Marketing workflow for social media operators. | `TypeScript` |
-| **[Retro Games](https://www.retrogames.win/)** | Classic web arcade with zero friction. | `JavaScript` |
-
----
-
-## Skill stack
+<!-- Profile README — renders at github.com/tejalogs -->
 
 <div align="center">
 
-### Design & Experience
-![Figma](https://img.shields.io/badge/Figma-E95420?style=for-the-badge&logo=figma&logoColor=white)
-![UI/UX](https://img.shields.io/badge/UI_UX-3B82F6?style=for-the-badge&logo=adobe-creative-cloud&logoColor=white)
-![Content](https://img.shields.io/badge/Content_Strategy-0D1117?style=for-the-badge&logo=buffer&logoColor=3B82F6)
+### Teja · `@tejalogs`
 
-### Development & AI
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![AI/OpenAI](https://img.shields.io/badge/AI_Workflows-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-### Growth & Marketing
-![SEO](https://img.shields.io/badge/SEO_Growth-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Meta](https://img.shields.io/badge/Meta_Ads-0668E1?style=for-the-badge&logo=meta&logoColor=white)
-![Analytics](https://img.shields.io/badge/Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
+**AI Content Strategist & Growth Architect**
+Founder, [The Social Algorithm](https://www.thesocialalgorithm.work)
 
 </div>
 
 ---
 
-## Daily life
+I pair **strategy with engineering**. I don't just design the blueprint for digital growth — I build the engines that execute it.
+
+Three things I do:
+
+- **AI Engine Optimisation (AEO / AIO)** — semantic data frameworks, `llms.txt`, Answer-First content structures, and citation infrastructure that make LLMs index your brand as the consensus answer
+- **Agentic workflows & automation** — orchestrating Claude Code, Apify, OpenClaw and bespoke systems into distribution pipelines that ship at builder pace
+- **Flutter software development** — native apps with smooth rendering and fluid animations. Behavioural-AI products on Flutter + Firebase + Gemini
+
+---
+
+## Currently building
+
+| Project | What it does |
+| :--- | :--- |
+| **[The Social Algorithm](https://www.thesocialalgorithm.work)** | Viral-growth marketing agency — strategy + engineering for AI-era brands |
+| **[Second Look](https://trysecondlook.com)** | AI-powered behavioural prediction engine that maps relationship patterns |
+| **[aajkameal](https://aajkameal.com)** | Food preference AI that learns your taste over time |
+| **Know Us Better (KUB)** | Programmatic SEO surface for interview discovery |
+| **Superman** | AI-powered social distribution engine across X, LinkedIn and Instagram |
+| **[Retro Games](https://www.retrogames.win/)** | Classic web arcade, zero friction |
+
+---
+
+## Stack
+
+`Claude Code` · `Apify` · `OpenClaw` · `Flutter` · `Firebase` · `Gemini` · `FastAPI` · `Playwright` · `TypeScript` · `Python`
+
+---
+
+## Find me
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=☕+Working;💻+Building;🛌+Resting" alt="Daily Life Typing SVG" />
+[![Website](https://img.shields.io/badge/Site-tejalogs.github.io-92D652?style=for-the-badge&logo=githubpages&logoColor=black)](https://tejalogs.github.io)
+[![Agency](https://img.shields.io/badge/Agency-thesocialalgorithm-92D652?style=for-the-badge&logo=safari&logoColor=black)](https://www.thesocialalgorithm.work)
+[![X](https://img.shields.io/badge/X-@tejalogs-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/tejalogs)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-tejalogs-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejalogs)
+[![Medium](https://img.shields.io/badge/Medium-tejalogs-000?style=for-the-badge&logo=medium&logoColor=white)](https://tejalogs.medium.com)
+[![Substack](https://img.shields.io/badge/Substack-tejalogs-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://substack.com/@tejalogs)
+[![Instagram](https://img.shields.io/badge/Instagram-@tejalogs-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tejalogs)
+[![YouTube](https://img.shields.io/badge/YouTube-@tejalogs-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@tejalogs)
+
+📍 Vijayawada, India
 
 </div>
 
 ---
 
-## Currently working on
-
-* Building marketing strategy for digital products  
-* Designing content systems that scale  
-* Applying AI to remove repetitive work  
-* Improving UX for conversion focused flows  
-* Shipping small tools faster  
-* Growing social channels with intent  
-
----
-
-## Fun facts
-
-* I enjoy turning messy ideas into clear systems  
-* I care about how attention works on the internet  
-* I use game design thinking for habit building  
-* I like building small tools more than big decks  
-* I believe UX reduces marketing cost  
-
----
-
-## Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Teja-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejalogs/)
-[![X](https://img.shields.io/badge/X-@tejalogs-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/tejalogs)
-[![Substack](https://img.shields.io/badge/Substack-Teja-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://substack.com/@tejalogs)
-[![Instagram](https://img.shields.io/badge/Instagram-@tejalogs-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tejalogs/)
-
-<br />
-
-<img src="https://komarev.com/ghpvc/?username=tejalogs&color=3B82F6&style=for-the-badge&label=Profile+Views" />
-
-**Attention creates action. Action builds habit. Habit creates value.**
-
-</div>
+> Available for AEO audits, agentic workflow builds, and Flutter products through **[The Social Algorithm](https://www.thesocialalgorithm.work)**.
