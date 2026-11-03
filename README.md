@@ -2,10 +2,11 @@
 
 <div align="center">
 
-### Teja · `@tejalogs`
+### Sai Teja · `@tejalogs`
 
 **AI Content Strategist & Growth Architect**
-Founder, [The Social Algorithm](https://www.thesocialalgorithm.work)
+Sai Teja (online as tejalogs) is an AI content strategist and growth marketer in Vijayawada, India, and the founder of [The Social Algorithm](https://www.thesocialalgorithm.work).
+[Who is tejalogs?](https://www.thesocialalgorithm.work/tejalogs)
 
 </div>
 
@@ -21,11 +22,17 @@ Three things I do:
 
 ---
 
+## Measured in public
+
+What ChatGPT has sent our own site, with the limits stated: [AEO case study](https://www.thesocialalgorithm.work/blog/chatgpt-visits-agency-site-case-study).
+
+---
+
 ## Currently building
 
 | Project | What it does |
 | :--- | :--- |
-| **[The Social Algorithm](https://www.thesocialalgorithm.work)** | Viral-growth marketing agency — strategy + engineering for AI-era brands |
+| **[The Social Algorithm](https://www.thesocialalgorithm.work)** | Growth marketing agency in India — SEO, AEO, ads, websites and content. [What it is](https://www.thesocialalgorithm.work/the-social-algorithm) |
 | **[Second Look](https://www.trysecondlook.com)** · [📱 Play Store](https://play.google.com/store/apps/details?id=com.trysecondlook.app) | AI-powered behavioural prediction engine that maps relationship patterns |
 | **[aajkameal](https://aajkameal.com)** | Food preference AI that learns your taste over time |
 | **[Retro Games](https://www.retrogames.win/)** | Classic web arcade, zero friction |
@@ -49,7 +56,7 @@ Three things I do:
 [![Medium](https://img.shields.io/badge/Medium-tejalogs-000?style=for-the-badge&logo=medium&logoColor=white)](https://tejalogs.medium.com)
 [![Substack](https://img.shields.io/badge/Substack-tejalogs-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://substack.com/@tejalogs)
 [![Instagram](https://img.shields.io/badge/Instagram-@tejalogs-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tejalogs)
-[![YouTube](https://img.shields.io/badge/YouTube-@tejalogs-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@tejalogs)
+[![YouTube](https://img.shields.io/badge/YouTube-Sai%20Teja-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCH5bruRUpL7hCrEW2raQBLg)
 
 📍 Vijayawada, India
 
